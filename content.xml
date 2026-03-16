@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260314095921RSV70I</value>
+    <value>20260316200008SY6GNP</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202603140959212OMJG0</value>
+    <value>20260316200008CUF9Y8</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1773493137502</value>
+    <value>1773697055458</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -85,31 +85,11 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>69b97d9d-488e-4e17-ad39-fc0104d33c1e</odePageId>
+  <odePageId>page-mmtpfiz2-kcmzuur08</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Inicio</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Inicio</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value>Inicio</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleHtml</key>
-      <value></value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Inicio</value>
@@ -123,13 +103,33 @@
       <value>false</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
       <key>description</key>
       <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>69b97d9d-488e-4e17-ad39-fc0104d33c1e</odePageId>
+      <odePageId>page-mmtpfiz2-kcmzuur08</odePageId>
       <odeBlockId>block-1773489552005-6lknapppr</odeBlockId>
       <blockName>🌐 Taller de Tecnología: Tu Huella en la Red</blockName>
       <iconName></iconName>
@@ -158,7 +158,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>69b97d9d-488e-4e17-ad39-fc0104d33c1e</odePageId>
+          <odePageId>page-mmtpfiz2-kcmzuur08</odePageId>
           <odeBlockId>block-1773489552005-6lknapppr</odeBlockId>
           <odeIdeviceId>idevice-1773489552002-iu71fye17</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -172,6 +172,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1773489552002-iu71fye17","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4>Diseñando el futuro digital de nuestra escuela</h4>\n<p>Hoy en día, internet no es solo un lugar para buscar información; es un espacio para construir, colaborar y resolver problemas. En este bimestre, dejarás de ser un espectador para convertirte en un Arquitecto de Experiencias Digitales.</p>\n<p><strong>¿Cuál es nuestro desafío?</strong><br />La tecnología solo tiene sentido cuando ayuda a las personas. Por eso, el objetivo de este taller es diseñar y programar un Portal de Servicios para nuestra Comunidad Escolar. Vamos a detectar qué procesos de nuestra escuela podemos mejorar (desde la organización de la biblioteca hasta la cartelera de eventos) y crearemos una solución digital real para ellos. </p>\n<p><strong>Prepárate para transformar tus ideas en código. ¡Empecemos a construir!</strong></p>\n<p style=\"text-align: center;\"><strong><img src=\"{{context_path}}/content/resources/encabezado taller diseño web.png\" width=\"1408\" height=\"768\" alt=\"\" /></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -179,31 +191,11 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1773489231250-rylpfsd5r</odePageId>
+  <odePageId>page-mmtpfiz3-w6be5q937</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Clase 1 (introducción)</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Clase 1 (introducción)</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value>Clase 1 (introducción)</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleHtml</key>
-      <value></value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Clase 1 (introducción)</value>
@@ -217,13 +209,33 @@
       <value>false</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Clase 1 (introducción)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Clase 1 (introducción)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
       <key>description</key>
       <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1773489231250-rylpfsd5r</odePageId>
+      <odePageId>page-mmtpfiz3-w6be5q937</odePageId>
       <odeBlockId>block-1773490979670-qwpcmus4p</odeBlockId>
       <blockName>Introducción</blockName>
       <iconName>present</iconName>
@@ -252,7 +264,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1773489231250-rylpfsd5r</odePageId>
+          <odePageId>page-mmtpfiz3-w6be5q937</odePageId>
           <odeBlockId>block-1773490979670-qwpcmus4p</odeBlockId>
           <odeIdeviceId>idevice-1773490979667-l6x3cdw61</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -264,6 +276,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1773490979667-l6x3cdw61","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Clase 1: El Caos vs. El Orden (La primera impresión)</h2>\n<h5><br />En esta clase trabajaremos la dicotomía entre estética y funcionalidad.</h5>\n<p style=\"text-align: left;\"><strong>Módulo 1: La Web como espacio de construcción</strong><br />Introducción: ¿Navegamos o Naufragamos?<br />Seguramente te ha pasado: entras a una página web buscando información para un trabajo escolar o queriendo comprar una entrada para un recital, y te encuentras con un laberinto de anuncios, botones que no funcionan y textos imposibles de leer. A los pocos segundos, te frustras y cierras la pestaña.<br />¿Por qué sucede esto? Muchas veces, las páginas se diseñan pensando solo en que \"se vean bien\" (o peor aún, se hacen sin pensar en absoluto), olvidando lo más importante: a quién va dirigida y para qué sirve.<br />En este taller, vamos a aprender que construir una web es mucho más que escribir código; es diseñar una experiencia. Para ello, debemos dominar dos conceptos fundamentales de la industria tecnológica:<br />● <strong>UI (User Interface - Interfaz de Usuario):</strong> Es lo que \"vemos\". Se encarga de la estética: los colores, las tipografías, las imágenes y la disposición de los<br />botones. Es el aspecto visual que nos atrae. <br />● <strong>UX (User Experience - Experiencia de Usuario):</strong>  Es lo que \"sentimos\". Se encarga de la lógica y la facilidad de uso. ¿Es intuitivo encontrar el menú?<br />¿La página carga rápido? ¿El usuario logra su objetivo sin estresarse? El Desafío: A lo largo de este bimestre, dejaremos de ser simples<br />\"usuarios\" para convertirnos en Diseñadores de Soluciones. Tu misión será crear un portal de servicios que ayude a tus compañeros y a los<br />docentes a resolver problemas reales de nuestra escuela. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -271,31 +295,11 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1773491263075-2hju9e1wb</odePageId>
-  <odeParentPageId>page-1773489231250-rylpfsd5r</odeParentPageId>
+  <odePageId>page-mmtpfiz3-2yv9rhsqd</odePageId>
+  <odeParentPageId>page-mmtpfiz3-w6be5q937</odeParentPageId>
   <pageName>Los 3 mandamientos</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Los 3 mandamientos</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value>Los 3 mandamientos</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleHtml</key>
-      <value></value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Los 3 mandamientos</value>
@@ -309,13 +313,33 @@
       <value>false</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Los 3 mandamientos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Los 3 mandamientos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
       <key>description</key>
       <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1773491263075-2hju9e1wb</odePageId>
+      <odePageId>page-mmtpfiz3-2yv9rhsqd</odePageId>
       <odeBlockId>block-1773491348513-e9xv5u2uw</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -344,7 +368,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1773491263075-2hju9e1wb</odePageId>
+          <odePageId>page-mmtpfiz3-2yv9rhsqd</odePageId>
           <odeBlockId>block-1773491348513-e9xv5u2uw</odeBlockId>
           <odeIdeviceId>idevice-1773491348508-npq5xy3iq</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -356,6 +380,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1773491348508-npq5xy3iq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Los 3 Mandamientos de la Usabilidad Web</h2>\n<p>Para que nuestro proyecto de \"Portal de Servicios Escolares\" sea un éxito, todo lo que diseñemos debe respetar estas tres leyes sagradas:</p>\n<p><img src=\"{{context_path}}/content/resources/los3mandamientos delausabilidad.jpg\" width=\"1408\" height=\"768\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -363,19 +399,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1773491606912-cwqmwgwm0</odePageId>
-  <odeParentPageId>page-1773489231250-rylpfsd5r</odeParentPageId>
+  <odePageId>page-mmtpfiz4-mcnkz6v3w</odePageId>
+  <odeParentPageId>page-mmtpfiz3-w6be5q937</odeParentPageId>
   <pageName>Actividad 1 </pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Actividad 1 </value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1 </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1773491606912-cwqmwgwm0</odePageId>
+      <odePageId>page-mmtpfiz4-mcnkz6v3w</odePageId>
       <odeBlockId>block-1773491614825-wfuy8o07k</odeBlockId>
       <blockName>Actividad 1</blockName>
       <iconName></iconName>
@@ -404,7 +464,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1773491606912-cwqmwgwm0</odePageId>
+          <odePageId>page-mmtpfiz4-mcnkz6v3w</odePageId>
           <odeBlockId>block-1773491614825-wfuy8o07k</odeBlockId>
           <odeIdeviceId>idevice-1773491614824-dyr4q99pk</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -423,6 +483,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1773491614824-dyr4q99pk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>️‍🌐Safari Web</h2>\n<p><strong>\"Cazando aciertos y errores en la selva digital\"</strong><br />¡Bienvenidos a su primera misión de campo! Como futuros diseñadores web, no podemos<br />construir algo nuevo sin antes entender qué es lo que ya funciona (y qué es un desastre) en<br />el mundo real.</p>\n<p>Hoy vamos a realizar un Safari Web. No buscaremos animales, sino patrones de diseño.<br />Vamos a observar cómo diferentes sitios intentan captar nuestra atención y si realmente<br />cumplen con lo que prometen.</p>\n<ul>\n<li>Arngren: <a href=\"https://www.arngren.net/\">https://www.arngren.net/</a></li>\n<li>Duolingo: <a href=\"https://es.duolingo.com/\">https://es.duolingo.com/</a></li>\n<li>Town School: <a href=\"https://www.thetownschool.org/\">https://www.thetownschool.org/</a>   </li>\n</ul>\n<p><strong>La Misión:</strong><br />En grupos de 3, deberán navegar por los sitios que les hemos asignado. Imaginen que son \"auditores de tecnología\" y deben juzgar cada sitio bajo la lupa de los 3 Mandamientos de la Usabilidad.<br />¿Qué deben buscar? <br />1. El Camino del Usuario: ¿Es obvio lo que tengo que hacer apenas carga la página?<br />2. La Trampa Visual: ¿Hay elementos que me distraen o me molestan (colores<br />estridentes, música, carteles que tapan el contenido)?<br />3. La Prueba de la Velocidad: ¿El sitio se siente ágil o parece que \"pesa\" demasiado?<br />Instrucciones de Registro:<br />Utilicen nuestro Documento Compartido para dejar registro de sus hallazgos. No se limiten a<br />escribir \"es feo\"; utilicen términos profesionales: Safari web </p>\n<p>● \"La UI (Interfaz) está saturada de información\".<br />● \"La UX (Experiencia) es mala porque el botón de contacto no se encuentra\". Recuerden: En un safari, el mejor observador es el que detecta los detalles que<br />otros pasan por alto. ¡Abran sus navegadores y que comience la cacería!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -430,19 +502,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1773491878071-gzo5svhhy</odePageId>
-  <odeParentPageId>page-1773489231250-rylpfsd5r</odeParentPageId>
+  <odePageId>page-mmtpfiz4-8ltdbxzzv</odePageId>
+  <odeParentPageId>page-mmtpfiz3-w6be5q937</odeParentPageId>
   <pageName>Actividad 2</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Actividad 2</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1773491878071-gzo5svhhy</odePageId>
+      <odePageId>page-mmtpfiz4-8ltdbxzzv</odePageId>
       <odeBlockId>block-1773491920658-42osct8qf</odeBlockId>
       <blockName>Actividad 2</blockName>
       <iconName></iconName>
@@ -471,7 +567,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1773491878071-gzo5svhhy</odePageId>
+          <odePageId>page-mmtpfiz4-8ltdbxzzv</odePageId>
           <odeBlockId>block-1773491920658-42osct8qf</odeBlockId>
           <odeIdeviceId>idevice-1773491920656-hsqo9883g</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -485,6 +581,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1773491920656-hsqo9883g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>⚡Diseño Relámpago (Misión de Rescate) </h2>\n<p><br />\"Menos es más: El arte de simplificar\" Después de nuestro Safari Web, hemos descubierto que internet está lleno de \"ruido visual\": botones que no se ven, textos infinitos y desorden. Ahora es tu turno de pasar a la acción. No necesitamos computadoras para esta misión, solo tu capacidad de síntesis y un marcador.</p>\n<p><strong>El Desafío:</strong><br />Tu grupo ha sido contratado como un equipo de Rescate UX. Deben elegir un \"desastre\" de la web caótica que analizamos (Arngren) y rediseñarlo por completo en una hoja de papel. Las Reglas del Juego (Restricciones Creativas): Para que tu diseño sea realmente útil, debes seguir estas reglas de la industria:</p>\n<p><em>1. Un solo objetivo: Si estás rediseñando la ficha de un producto, el usuario </em><em>solo debe querer hacer una cosa (ej: \"Comprar\" o \"Ver más detalles\").</em><br /><em>2. Jerarquía Visual: Lo más importante debe ser lo más grande o lo más </em><em>llamativo.</em><br /><em>3. La Regla de 3: No puedes usar más de 3 colores ni más de 3 tipos de </em><em>elementos distintos.</em></p>\n<p><em id=\"link_0\">Finalizado el trabajo compartiremos los wireframes en un padlet:  <a href=\"https://padlet.com/carlosbarbieri2/safari-web-83r7o6afm8be6da7\" title=\"Acceder a padlet\" target=\"_blank\" rel=\"noopener\" id=\"link_1\">Accede a padlet</a></em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -492,19 +600,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1773492413241-ykd653f74</odePageId>
-  <odeParentPageId>page-1773489231250-rylpfsd5r</odeParentPageId>
+  <odePageId>page-mmtpfiz5-k69b7feg2</odePageId>
+  <odeParentPageId>page-mmtpfiz3-w6be5q937</odeParentPageId>
   <pageName>Autoevaluación </pageName>
-  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Autoevaluación </value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1773492413241-ykd653f74</odePageId>
+      <odePageId>page-mmtpfiz5-k69b7feg2</odePageId>
       <odeBlockId>block-1773492442530-x04r8kp5r</odeBlockId>
       <blockName>Formulario autoevaluación</blockName>
       <iconName>draw</iconName>
@@ -533,7 +665,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1773492413241-ykd653f74</odePageId>
+          <odePageId>page-mmtpfiz5-k69b7feg2</odePageId>
           <odeBlockId>block-1773492442530-x04r8kp5r</odeBlockId>
           <odeIdeviceId>idevice-1773492442528-jd16vm14r</odeIdeviceId>
           <odeIdeviceTypeName>form</odeIdeviceTypeName>
@@ -581,6 +713,412 @@
             
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1773492442528-jd16vm14r","evaluation":false,"evaluationID":"552da733-ab18-4a7d-afe3-c93df0080bcc","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1773492442528-jd16vm14r","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<h4><strong>Este cuestionario te permitirá autoevaluarte y ver si comprendiste los contenidos de la clase 1. Responde a las preguntas del cuestionario</strong></h4>","questionsData":[{"id":"1773492642690-16YW2","activityType":"selection","baseText":"<p><strong>Imagina que un usuario llega a tu web para buscar el horario de la biblioteca. Si el menú principal está oculto bajo un ícono extraño y el usuario pasa 20 segundos buscándolo sin éxito, ¿qué mandamiento de la usabilidad se está rompiendo con más violencia?</strong></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Mandamiento 2: Priorizarás el contenido sobre el adorno."],[false,"Mandamiento 3: Respetarás el tiempo de quien te visita."],[true,"Mandamiento 1: No harás pensar al usuario. "]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1773492893553-53QSQ","activityType":"selection","baseText":"<p><strong>El proyecto de tu grupo es una web de \"Objetos Perdidos\" para la escuela. Deciden que la página de inicio sea una foto gigante de la entrada de la escuela que tarda 5 segundos en cargar y tapa toda la información. ¿Cuál es la principal falla de este diseño?</strong></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"No tiene suficientes colores para llamar la atención."],[false,"No incluye la dirección de la escuela."],[true,"Prioriza la estética (UI) sobre la función y el contenido (UX)."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1773493009265-QSUSH","activityType":"selection","baseText":"<p><strong>Al prototipar en papel durante la actividad \"Diseño Relámpago\", ¿cuál es el objetivo pedagógico de esquematizar en lugar de dibujar con detalle?</strong></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Ahorrar tiempo y marcadores."],[true,"Enfocarse en la estructura de la información y el camino del usuario, sin distraerse con la estética."],[false,"Preparar el diseño para que lo programen otros alumnos."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1773697068115-342100shb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Clase 2 </pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Clase 2 </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1773697068115-342100shb</odePageId>
+      <odeBlockId>block-1773697098377-lkyj1r67n</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1773697068115-342100shb</odePageId>
+          <odeBlockId>block-1773697098377-lkyj1r67n</odeBlockId>
+          <odeIdeviceId>idevice-1773697098376-y2jru0rhh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Investigadores de Campo</h2>
+<h4>¿Para quién diseñamos?</h4>
+<p>¡Bienvenidos a la fase más crítica del proyecto! Antes de tocar una sola línea de código o elegir los colores de nuestra web, debemos responder una pregunta fundamental: ¿A quién le estamos resolviendo la vida?  A menudo, los desarrolladores cometen el error de crear herramientas que ellos creen que son útiles, pero que nadie termina usando. Eso en el mundo IT se llama "Desperdicio de Diseño".</p>
+<p><strong>El desafío de hoy:</strong><br />Un portal escolar no es un conjunto de fotos bonitas; es una herramienta de servicios. Si el bibliotecario tarda horas buscando un libro, si los alumnos no saben qué hay de comer en el buffet, o si nadie encuentra las fechas de examen... ¡ahí hay una oportunidad de diseño para nosotros! La premisa de hoy es simple: &gt; <strong><em>"No somos artistas digitales buscando inspiración; somos arquitectos de soluciones buscando problemas".</em></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773697098376-y2jru0rhh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Investigadores de Campo</h2>\n<h4>¿Para quién diseñamos?</h4>\n<p>¡Bienvenidos a la fase más crítica del proyecto! Antes de tocar una sola línea de código o elegir los colores de nuestra web, debemos responder una pregunta fundamental: ¿A quién le estamos resolviendo la vida?  A menudo, los desarrolladores cometen el error de crear herramientas que ellos creen que son útiles, pero que nadie termina usando. Eso en el mundo IT se llama \"Desperdicio de Diseño\".</p>\n<p><strong>El desafío de hoy:</strong><br />Un portal escolar no es un conjunto de fotos bonitas; es una herramienta de servicios. Si el bibliotecario tarda horas buscando un libro, si los alumnos no saben qué hay de comer en el buffet, o si nadie encuentra las fechas de examen... ¡ahí hay una oportunidad de diseño para nosotros! La premisa de hoy es simple: &gt; <strong><em>\"No somos artistas digitales buscando inspiración; somos arquitectos de soluciones buscando problemas\".</em></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1773697068115-342100shb</odePageId>
+      <odeBlockId>block-1773697375858-ovsggkp5y</odeBlockId>
+      <blockName>Tu misión en esta clase:</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1773697068115-342100shb</odePageId>
+          <odeBlockId>block-1773697375858-ovsggkp5y</odeBlockId>
+          <odeIdeviceId>idevice-1773697375856-yyhi5pt35</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-image license-custom float-right" style="width: 500px;"><img src="{{context_path}}/content/resources/niño busca.png" alt="" width="500" height="500" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<ul>
+<li>
+<h6>Dejar de suponer: Vamos a preguntarle a los protagonistas reales qué necesitan.</h6>
+</li>
+<li>
+<h6>Detectar el "Punto de Dolor": Identificar ese trámite o información que hoy es un caos.</h6>
+</li>
+<li>
+<h6>Empatizar: Ponernos en los zapatos de quien usará nuestra web todos los días.</h6>
+</li>
+</ul>
+<p><br style="clear: both;" /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773697375856-yyhi5pt35","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-image license-custom float-right\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/niño busca.png\" alt=\"\" width=\"500\" height=\"500\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<ul>\n<li>\n<h6>Dejar de suponer: Vamos a preguntarle a los protagonistas reales qué necesitan.</h6>\n</li>\n<li>\n<h6>Detectar el \"Punto de Dolor\": Identificar ese trámite o información que hoy es un caos.</h6>\n</li>\n<li>\n<h6>Empatizar: Ponernos en los zapatos de quien usará nuestra web todos los días.</h6>\n</li>\n</ul>\n<p><br style=\"clear: both;\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1773698389743-sc6da6d71</odePageId>
+  <odeParentPageId>page-1773697068115-342100shb</odeParentPageId>
+  <pageName>Clase 2.1</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Clase 2.1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1773698389743-sc6da6d71</odePageId>
+      <odeBlockId>block-1773698510382-le7x1ph2b</odeBlockId>
+      <blockName>Tu Kit de Investigación: La Ficha de Relevamiento</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1773698389743-sc6da6d71</odePageId>
+          <odeBlockId>block-1773698510382-le7x1ph2b</odeBlockId>
+          <odeIdeviceId>idevice-1773698510374-en2q8za0b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Es momento de equiparse! Para que tu salida de campo sea efectiva y no se te escape ningún detalle importante, vamos a utilizar una Ficha de Relevamiento Prototipo.</p>
+<p>Esta ficha es el estándar que usan los analistas de UX (User Experience) para organizar la información que recogen de sus clientes. No se trata solo de anotar lo que te dicen, sino de saber observar qué hay detrás de cada problema.</p>
+<p><a href="{{context_path}}/content/resources/kit de investigacion.pdf" title="kit de investigacion.pdf" id="link_0">📥 Descarga tu herramienta de trabajo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773698510374-en2q8za0b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Es momento de equiparse! Para que tu salida de campo sea efectiva y no se te escape ningún detalle importante, vamos a utilizar una Ficha de Relevamiento Prototipo.</p>\n<p>Esta ficha es el estándar que usan los analistas de UX (User Experience) para organizar la información que recogen de sus clientes. No se trata solo de anotar lo que te dicen, sino de saber observar qué hay detrás de cada problema.</p>\n<p><a href=\"{{context_path}}/content/resources/kit de investigacion.pdf\" title=\"kit de investigacion.pdf\" id=\"link_0\">📥 Descarga tu herramienta de trabajo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1773698389743-sc6da6d71</odePageId>
+      <odeBlockId>block-1773698893530-xwvbaa7b0</odeBlockId>
+      <blockName>Instrucciones de la Misión: Salida de Campo</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1773698389743-sc6da6d71</odePageId>
+          <odeBlockId>block-1773698893530-xwvbaa7b0</odeBlockId>
+          <odeIdeviceId>idevice-1773698893528-x32pm8kyb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡<strong>Llegó el momento de la acción! Ahora que tienen su Ficha de Relevamiento y su Guion de Entrevista, es hora de salir a investigar. Sigan estos pasos para que su relevamiento sea un éxito:</strong></p>
+<p>⏱️ Paso 1: Organización <br />Antes de cruzar la puerta del aula, definan en su equipo:</p>
+<p>¿A quién vamos a entrevistar? (Elijan a un referente de la escuela: bibliotecario, preceptor, encargado del buffet, directivo o un grupo de alumnos).<br />Roles: ¿Quién llevará la voz cantante en la entrevista? ¿Quién se encargará de anotar las respuestas en la ficha? ¿Quién observará el entorno para detectar problemas visuales (carteles viejos, amontonamiento de gente, etc.)?</p>
+<p><br />🎤 Paso 2: La Entrevista <br />Diríjanse al sector elegido. Recuerden usar el Guion de Entrevista para presentarse con profesionalismo.</p>
+<p>Escuchen más de lo que hablan: El objetivo es que el usuario les cuente sus problemas.<br />Busquen el "Tesoro": Si el entrevistado dice "Esto siempre sale mal" o "Nunca encuentro tal cosa", ¡bingo! Han encontrado un problema que su web puede solucionar.<br />📸 Paso 3: Evidencia Fotográfica<br />Si el usuario lo permite, tomen fotos de los métodos que usan hoy para resolver ese problema (una planilla de papel, un pizarrón con precios, una lista de nombres). Estas imágenes serán su referencia para el diseño digital más adelante.</p>
+<p>📝 Paso 4: El Retorno al Aula <br />Al volver, deben realizar una "Bajada de Datos" rápida:</p>
+<p>Revisen las notas de la ficha.<br />Definan en una sola oración la Misión de su Proyecto.</p>
+<p><em>Ejemplo: "Nuestra misión es digitalizar el stock de la biblioteca para que los alumnos no caminen en vano si el libro no está disponible".</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773698893528-x32pm8kyb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡<strong>Llegó el momento de la acción! Ahora que tienen su Ficha de Relevamiento y su Guion de Entrevista, es hora de salir a investigar. Sigan estos pasos para que su relevamiento sea un éxito:</strong></p>\n<p>⏱️ Paso 1: Organización <br />Antes de cruzar la puerta del aula, definan en su equipo:</p>\n<p>¿A quién vamos a entrevistar? (Elijan a un referente de la escuela: bibliotecario, preceptor, encargado del buffet, directivo o un grupo de alumnos).<br />Roles: ¿Quién llevará la voz cantante en la entrevista? ¿Quién se encargará de anotar las respuestas en la ficha? ¿Quién observará el entorno para detectar problemas visuales (carteles viejos, amontonamiento de gente, etc.)?</p>\n<p><br />🎤 Paso 2: La Entrevista <br />Diríjanse al sector elegido. Recuerden usar el Guion de Entrevista para presentarse con profesionalismo.</p>\n<p>Escuchen más de lo que hablan: El objetivo es que el usuario les cuente sus problemas.<br />Busquen el \"Tesoro\": Si el entrevistado dice \"Esto siempre sale mal\" o \"Nunca encuentro tal cosa\", ¡bingo! Han encontrado un problema que su web puede solucionar.<br />📸 Paso 3: Evidencia Fotográfica<br />Si el usuario lo permite, tomen fotos de los métodos que usan hoy para resolver ese problema (una planilla de papel, un pizarrón con precios, una lista de nombres). Estas imágenes serán su referencia para el diseño digital más adelante.</p>\n<p>📝 Paso 4: El Retorno al Aula <br />Al volver, deben realizar una \"Bajada de Datos\" rápida:</p>\n<p>Revisen las notas de la ficha.<br />Definan en una sola oración la Misión de su Proyecto.</p>\n<p><em>Ejemplo: \"Nuestra misión es digitalizar el stock de la biblioteca para que los alumnos no caminen en vano si el libro no está disponible\".</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1773699197168-2ayo1s26b</odePageId>
+  <odeParentPageId>page-1773697068115-342100shb</odeParentPageId>
+  <pageName>Clase 2.2</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Clase 2.2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1773699197168-2ayo1s26b</odePageId>
+      <odeBlockId>block-1773699337480-b8si57y69</odeBlockId>
+      <blockName>Cierre y puesta en común</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1773699197168-2ayo1s26b</odePageId>
+          <odeBlockId>block-1773699337480-b8si57y69</odeBlockId>
+          <odeIdeviceId>idevice-1773699337478-fv22yfeje</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>"El Momento de la Verdad"</h3>
+<p>¡Bienvenidos de vuelta al laboratorio! Ahora que sus Fichas de Relevamiento están llenas de notas, tachaduras y comentarios, tienen en sus manos la materia prima de su futuro portal escolar.</p>
+<p>No todas las quejas son proyectos, y no todos los deseos son funciones. Ahora debemos filtrar lo que escuchamos.</p>
+<p>🧠<strong> La pregunta del millón: ¿Qué descubrieron?</strong><br />Reúnanse con su equipo y compartan lo que cada uno observó. Es muy probable que hayan vuelto con mucha información mezclada. Para ordenarla, respondan estas tres preguntas en su cuaderno o documento compartido:</p>
+<ul>
+<li>¿Cuál fue el "Punto de Dolor" más repetido? (Eso que hace que el usuario suspire de frustración).</li>
+<li>¿Qué es lo que el usuario quiere lograr, pero hoy le cuesta horrores?</li>
+<li>¿Es posible resolverlo con una página web sencilla?. </li>
+</ul>
+<p style="text-align: center;"><a href="https://padlet.com/carlosbarbieri2/investigaci-n-de-campo-3ac78r4gwukc4n5v" target="_blank" rel="noopener" id="link_1">Compartimos el trabajo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773699337478-fv22yfeje","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>\"El Momento de la Verdad\"</h3>\n<p>¡Bienvenidos de vuelta al laboratorio! Ahora que sus Fichas de Relevamiento están llenas de notas, tachaduras y comentarios, tienen en sus manos la materia prima de su futuro portal escolar.</p>\n<p>No todas las quejas son proyectos, y no todos los deseos son funciones. Ahora debemos filtrar lo que escuchamos.</p>\n<p>🧠<strong> La pregunta del millón: ¿Qué descubrieron?</strong><br />Reúnanse con su equipo y compartan lo que cada uno observó. Es muy probable que hayan vuelto con mucha información mezclada. Para ordenarla, respondan estas tres preguntas en su cuaderno o documento compartido:</p>\n<ul>\n<li>¿Cuál fue el \"Punto de Dolor\" más repetido? (Eso que hace que el usuario suspire de frustración).</li>\n<li>¿Qué es lo que el usuario quiere lograr, pero hoy le cuesta horrores?</li>\n<li>¿Es posible resolverlo con una página web sencilla?. </li>\n</ul>\n<p style=\"text-align: center;\"><a href=\"https://padlet.com/carlosbarbieri2/investigaci-n-de-campo-3ac78r4gwukc4n5v\" target=\"_blank\" rel=\"noopener\" id=\"link_1\">Compartimos el trabajo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1773699540264-smzeonv6x</odePageId>
+  <odeParentPageId>page-1773697068115-342100shb</odeParentPageId>
+  <pageName>Clase 2.3</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Clase 2.3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1773699540264-smzeonv6x</odePageId>
+      <odeBlockId>block-1773699608115-ah7tncjak</odeBlockId>
+      <blockName>Test de Pre-Vuelo: ¿Listos para la investigación?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1773699540264-smzeonv6x</odePageId>
+          <odeBlockId>block-1773699608115-ah7tncjak</odeBlockId>
+          <odeIdeviceId>idevice-1773699608113-4mlqnh2ig</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1773699608113-4mlqnh2ig" data-evaluationb="false" data-evaluationid="c361ca3b-fe80-49a4-aafb-ec0eee2131ff"></div>
+            <div id="frmMainContainer-idevice-1773699608113-4mlqnh2ig" class="form-IDevice" data-id="idevice-1773699608113-4mlqnh2ig">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p><strong>El siguiente cuestionario les servirá  asegurar que no salgan a preguntar por preguntar, sino con mentalidad de diseñadores UX.</strong></p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1773699608113-4mlqnh2ig">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1773699608113-4mlqnh2ig" style="display:none;">
+                      <button  id="frmStartGame-idevice-1773699608113-4mlqnh2ig" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1773699608113-4mlqnh2ig" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1773699608113-4mlqnh2ig" > </div>
+                        <div id="frmCover-idevice-1773699608113-4mlqnh2ig" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1773699608113-4mlqnh2ig" class="form-results-container inline">
+                        <div id="form-score-idevice-1773699608113-4mlqnh2ig" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1773699608113-4mlqnh2ig" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1773699608113-4mlqnh2ig" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1773699608113-4mlqnh2ig" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1773699608113-4mlqnh2ig" type="button" value="Reiniciar"
+                            data-id="idevice-1773699608113-4mlqnh2ig" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1773699608113-4mlqnh2ig" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773699608113-4mlqnh2ig","evaluation":false,"evaluationID":"c361ca3b-fe80-49a4-aafb-ec0eee2131ff","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1773699608113-4mlqnh2ig","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p><strong>El siguiente cuestionario les servirá  asegurar que no salgan a preguntar por preguntar, sino con mentalidad de diseñadores UX.</strong></p>","questionsData":[{"id":"1773699909818-PJPCC","activityType":"selection","baseText":"<p>Si un entrevistado te dice: \"Necesito una página web con muchos colores y música de fondo\", según el enfoque UX, ¿qué deberías hacer?<br /> </p>","feedbackRight":"¡Exacto! El rol del diseñador UX no es solo cumplir deseos estéticos, sino entender la necesidad funcional que hay detrás del pedido.","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Anotarlo como prioridad número uno porque el cliente siempre tiene la razón."],[true,"Preguntar: \"¿Para qué tarea específica usaría la web y qué problema le resolvería la música?\""],[false,"Ignorar el comentario porque la música en las webs ya no se usa."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1773699992759-NC9H9","activityType":"selection","baseText":"<p>Durante la observación, notás que el preceptor tiene 50 planillas de papel sobre el escritorio y tarda 10 minutos en encontrar una nota. ¿Qué representa esto para tu proyecto?</p>","feedbackRight":"¡Correcto! Donde hay un proceso lento, analógico y propenso al error, hay una oportunidad para una solución digital de alto impacto.","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Un \"Punto de Dolor\" ideal para ser digitalizado y optimizado."],[false,"Que el preceptor necesita un escritorio más grande."],[false,"Un problema de orden personal que no tiene nada que ver con la tecnología."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1773700076409-NYPKS","activityType":"selection","baseText":"<p>¿Cuál es el objetivo principal del \"Guion de Entrevista\" que les entregó el Profe?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Leerlo palabra por palabra sin mirar al entrevistado."],[true,"Servir como guía para asegurar que descubramos qué le duele y qué necesita el usuario."],[false,"Usarlo para que la entrevista dure exactamente 20 minutos."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1773700136915-70EMB","activityType":"selection","baseText":"<p>¿Por qué es importante identificar a un \"User Persona\" (como 'Raúl el Bibliotecario') en lugar de diseñar para 'toda la escuela'?</p>","feedbackRight":"¡Exactamente! Si intentás solucionar los problemas de \"todos\" al mismo tiempo, terminás no solucionando bien el de nadie. La especificidad es la clave de la UX.","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Porque es más fácil dibujar a una sola persona."],[true,"Porque al entender los problemas específicos de alguien real, la solución será más útil y precisa."],[false,"Porque diseñar para mucha gente es más caro en términos de programación."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":false,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
